@@ -1,7 +1,7 @@
 # 23-bienvenidos-Bautistabudano01
 23-bienvenidos-Bautistabudano01 created by GitHub Classroom
 # Informacion
-- Nombre: Bautisa
+- Nombre: Bautista
 - Apellido: Budano
 - legajo: 12145
 
